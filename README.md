@@ -3,6 +3,8 @@ Protótipo BailaBeat inspirado em plataformas famosas, desenvolvido durante o cu
 
 ![teste de cores e design](img-readme/mockup-bailabeat.png)
 
+[Figma - BailaBeat](https://www.figma.com/design/obwXvWp4eUeGA3J3ZrL8Gs/BailaBeat?node-id=0-1&t=1hIB4xjqxtljeKYv-1) <– Clique para ver o protótipo
+
 BailaBeat é um protótipo de aplicativo de música inspirado em plataformas famosas como Spotify e Deezer. O projeto foi desenvolvido como parte do curso **PROPROFISSÃO** no **Instituto PROA**, com o objetivo de aplicar conceitos de design de interface e experiência do usuário.
 
 ## ✨ Objetivo
